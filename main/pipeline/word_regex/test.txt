@@ -1,0 +1,44 @@
+Word2vec là một mô hình đơn giản và nổi tiếng giúp tạo ra các biểu diễn embedding của từ trong một không gian có số chiều thấp hơn nhiều lần so với số từ trong từ điển; Ý tưởng của word2vec đã được sử dụng trong nhiều bài toán với dữ liệu khác xa với dữ liệu ngôn ngữ! Trong cuốn sách này, ý tưởng của word2vec sẽ được trình bày và một ví dụ minh họa ứng dụng word2vec để tạo một mô hình product2vec giúp tạo ra các embedding khác nhau cho thực phẩm và đồ gia dụng.
+Thanh niên hiện nay chiều cao trung bình = 1.75m. Rất nhiều người đã dùng thuốc tăng chiều cao.
+PGS.TS Huỳnh Công Pháp là hiệu trưởng trường Đại học CNTT&TT Việt-Hàn.
+TS.Nguyễn Hữu Nhật Minh rất giỏi.
+Địa chỉ : K142 H20/19 Hồ Nghinh, Mân Thái, Sơn Trà, Đà Nẵng.
+1+1 ===========> 2
+Tôi có 15$
+Tôi nghe thấy tiếng ra-di-o ở trong căn nhà mục nát.
+UBND xã Lộc Bổn ra quyết định ... vụ án vào ngày 20-11-2001
+Tp.HCM là một nơi xầm uất.
+Nơi tôi bắt đầu đi làm là Tp.Hồ Chí Minh.
+Ngày 20/10/2021 xe máy mang biển báo 43H1-999.99.
+Biển số xe oto là 43E-720.23
+e-mail của tôi là: nhokmant2003@gmail.com.
+Việt Nam có 64 dân tộc trong đó có H'Mông, Khơ-Me.
+12:02 SA 30/06/2023
+10:01:22 03.07.2023
+14H20p30S
+14h20P30'
+tao thích mày <3
+:DDDDDD
+tao cho em <=3 1 tháng sau mày bị đá :)
+Mrs.Nam Vo đang phát biểu.
+Nhiệt độ thế giới đang là 32°C.
+url: https://github.com
+Số pi = 3.1415926535897932384626433
+1m7
+3kg3
+24K
+3 km/h
+2 USD/ngày
+4 viên/ngày
+1600m-2000m
+1tr
+5M5
+2m2
+24Gb
+2 lần/ngày
+Cân nặng trung bình của người Việt Nam khoảng 50-70kg.
+Một hai ba bốn chiếc lá.
+Nhà tôi có hai mươi bốn người anh em. Tôi là thành viên thứ hai mươi mốt của gia đình.
+Trường Đại học CNTT&TT Việt-Hàn là ngôi trường thuộc top mười lăm của Đà Nẵng.
+Một trăm mười lăm phần ba trăm bốn mươi bảy.
+BA MƯƠI HAI PHẦN BẢY TRĂM
